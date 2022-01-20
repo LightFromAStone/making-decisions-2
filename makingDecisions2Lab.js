@@ -26,8 +26,8 @@ var family = ['Tyler', 'Jordan', 'Ryan', 'Alice', 'Ireland'];
   Loop through the 'family' array and console.log every item.
 */
 
-for (let i = 0; i < arr.length; i++) {
-  console.log(arr[i]);
+for (let i = 0; i < family.length; i++) {
+  console.log(family[i]);
 }
 
 
